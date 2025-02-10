@@ -2,8 +2,12 @@
 
 ## Linguagens que eu conheço
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKrayz&layout=compact&theme=radical" alt="Top Linguagens"/>
+
+<img src="https://komarev.com/ghpvc/?username=HeyKrayz&color=blueviolet" alt="Contador de Visualizações"/>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKrayz&layout=compact&theme=radical)
 
