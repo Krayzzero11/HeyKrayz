@@ -1,4 +1,8 @@
-# Oi, sou Krayz sou dev trainee
+# Oi, sou Krayz
+## Estudante do 2 Anos do ensino medio e jovem aprendiz
+## Dev trainee com 4 mes de estudos
+## Minha meta e se profissionalizar como back-end ate 2026
+
 
 ## Linguagens que eu conheço
 <br>
