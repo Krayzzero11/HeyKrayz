@@ -1,5 +1,5 @@
 # Oi, sou Krayz
-## Estudante do 2 Anos do ensino medio e jovem aprendiz
+## Estudante do 2 Anos do ensino medio e jovem aprendiz (16 anos)
 ## Dev trainee com 4 mes de estudos
 ## Minha meta e se profissionalizar como back-end ate 2026
 
