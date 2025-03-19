@@ -14,5 +14,7 @@
 <div aling="center">
 
 ## Editor de codigos que eu uso
+<div aling="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="60 height="60"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKrayz&layout=compact&theme=gruvbox&langs_count=5">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKrayz&layout=compact&theme=gruvbox&langs_count=5" width="60 height="60">
+</div>
