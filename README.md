@@ -7,7 +7,7 @@
 ## Linguagens que eu conheço
 <br>
 <div aling="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60 height="60"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="55 height="55"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60 height="60"/>
 </div>
 <br>
