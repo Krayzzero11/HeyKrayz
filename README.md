@@ -7,8 +7,8 @@
 ## Linguagens que eu conheço
 <br>
 <div aling="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40 height="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60 height="60"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="60 height="60"/>
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyKrayz&layout=compact&theme=gruvbox&langs_count=5">
