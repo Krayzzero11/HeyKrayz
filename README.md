@@ -27,9 +27,4 @@ Com 7 meses de estudos, venho trilhando um caminho sólido com foco em fundament
 
 ---
 
-### **Contribuições**
-[![GitHub Streak](https://streak-stats.demolab.com?user=HeyKrayz&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
 > “Persistência supera talento quando o talento não persiste.”
