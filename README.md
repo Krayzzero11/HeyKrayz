@@ -1,10 +1,7 @@
 # Olá, eu sou o Krayz!
 
-Sou estudante do 2º ano do ensino médio, com 17 anos e uma missão clara: me tornar um desenvolvedor back-end de alto nível até 2026.
+Sou estudante do 2º ano do ensino médio, com 17 anos e pretendo me tornar um desenvolvedor back-end até 2026.
 
-Com 7 meses de estudos, venho trilhando um caminho sólido com foco em fundamentos, projetos autorais e aprendizado constante.
-
----
 
 ### **Minhas metas**
 - Me profissionalizar como dev back-end até 2026  
