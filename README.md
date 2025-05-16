@@ -25,3 +25,4 @@ Sou estudante do 2º ano do ensino médio, com 17 anos e pretendo me tornar um d
 ---
 
 > “Anti vibe coding.”
+<img src="https://tenor.com/view/lain-serial-experiments-lain-type-typing-gif-22807023">
