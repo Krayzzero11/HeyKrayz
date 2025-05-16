@@ -24,4 +24,4 @@ Sou estudante do 2º ano do ensino médio, com 17 anos e pretendo me tornar um d
 
 ---
 
-> “Persistência supera talento quando o talento não persiste.”
+> “Anti vibe coding.”
