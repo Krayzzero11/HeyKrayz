@@ -19,10 +19,9 @@ Sou estudante do 2º ano do ensino médio, com 17 anos e pretendo me tornar um d
 ### **Ferramentas e editores**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 > “Anti vibe coding.”
-<img src="https://tenor.com/view/lain-serial-experiments-lain-type-typing-gif-22807023">
+
