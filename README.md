@@ -6,7 +6,6 @@ Sou estudante do 2º ano do ensino médio, com 17 anos e pretendo me tornar um d
 ### **Minhas metas**
 - Me profissionalizar como dev back-end até 2026  
 - Dominar Java puro e entrar no ecossistema Spring  
-- Construir um portfólio sólido e consistente
 
 ---
 
